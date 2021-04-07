@@ -6,7 +6,9 @@ Standard Methods like
 3. Multilayer Perceptron
 4. Naive Bayes
 5. Decison Tree
-Some Specialised Methods like
+
+Some Specialised Methods like:
+
 1. Fuzzy kNN
 2. Gradient Boosting Decison Tree with Linear Regression
 3. HRFLM
